@@ -1,0 +1,9 @@
+
+
+There_are_the_rushing_waves 0 0;
+mountains_of_molecules 0 10;
+each_stupidly_minding_its_own_business 0 0;
+trillions_apart 0 20 1000;
+yet_forming_white_surf_in_unison 0 9000 3;
+
+
